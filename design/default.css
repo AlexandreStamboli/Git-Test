@@ -1,0 +1,19 @@
+* {
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: teal;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	padding-top: 50%;
+}
+
